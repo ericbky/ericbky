@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Brasília (UnB) no curso Engenharia de Software. Formado no curso Técnico em Informática para Internet integrado ao E.M, com estudos em sistemas, web, servidores, debugging, collections, framework's entre outros mais, assim também desenvolvi habilidades de programação em C, Java, JavaScript, PHP, HTML, CSS, entre outras com sintaxes mais superficiais.
+Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Brasília (UnB) do curso de Engenharia de Software. Formado no curso Técnico em Informática para Internet integrado ao E.M, com estudos em sistemas web e assim sigo desenvolvendo minhas habilidades em programação com linguagem C, Java, JavaScript, HTML, CSS, React, Node.js, Spring entre outros.
 
 - System.out.println(" 👨‍💻 I'm currently looking for my first back-end internship!!  ");
 - printf(" 📚 Currently studying JavaScript! ");
