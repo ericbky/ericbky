@@ -15,7 +15,7 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbky&theme=blue-green) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericbky&show_icons=true&theme=radical)
 
-## Languages: 
+## Languages and Tools:
 
 [![Blog](https://icongr.am/devicon/javascript-original.svg?size=40&color=ffffff)]()
 [![Blog](https://icongr.am/devicon/typescript-original.svg?size=40&color=ffffff)]()
@@ -25,10 +25,6 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
 [![Blog](https://icongr.am/devicon/java-original.svg?size=40&color=ffffff)]()
 [![Blog](https://icongr.am/devicon/php-original.svg?size=40&color=ffffff)]()
 
--
-
-## Tools:
-
   [![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
   [![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
   [![Blog](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
@@ -36,13 +32,15 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
   [![Blog](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)]()
   [![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
   
--
+##
 
-<img align="right" alt="GIF" src="https://github.com/ericbky/ericbky/blob/main/.github/code.gif?raw=true" width="500" height="320" />
+<div align="center">
+  <img align="right" alt="GIF" src="https://github.com/ericbky/ericbky/blob/main/.github/code.gif?raw=true" width="400" height="256" />
+</div>
 
 <div align="center">
   
-  ![Snake animation](https://github.com/ericbky/ericbky/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ericbky/ericbky/blob/output/github-contribution-grid-snake.svg | width=400)
   
 </div>
 
