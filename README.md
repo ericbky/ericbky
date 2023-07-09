@@ -1,6 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header"/>
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A7A5F7&background=2BFFF600&center=true&vCenter=true&width=600&height=30&lines=Hi+there%2C+I+am+Arthur+Gabriel;I'm+glad+you're+here;+I+study+software+engineering;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
+
+##
 
 Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Brasília (UnB) do curso de Engenharia de Software. Formado no curso Técnico em Informática para Internet integrado ao E.M, com estudos em sistemas web e assim sigo desenvolvendo minhas habilidades em programação com linguagem C, Java, JavaScript, HTML, CSS, React, Node.js, Spring entre outros.
 
@@ -32,6 +36,14 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
   [![Blog](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)]()
   [![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
   
+-
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/ArthurGabrieel/ArthurGabrieel/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 -
 
 ## Social:
