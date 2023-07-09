@@ -35,14 +35,10 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
 ##
 
 <div align="center">
-  <img align="right" alt="GIF" src="https://github.com/ericbky/ericbky/blob/main/.github/code.gif?raw=true" width="400" height="256" />
+  <img align="center" alt="GIF" src="https://github.com/ericbky/ericbky/blob/main/.github/code.gif?raw=true" width="400" height="256" />
+  <img align="center" alt="Snake animation" src="https://github.com/ericbky/ericbky/blob/output/github-contribution-grid-snake.svg" width="400" />
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/ericbky/ericbky/blob/output/github-contribution-grid-snake.svg | width=400)
-  
-</div>
 
 -
 
