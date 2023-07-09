@@ -40,7 +40,7 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
 
 <div align="center">
   
-  ![Snake animation](https://github.com/ArthurGabrieel/ArthurGabrieel/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ericbky/ericbky/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
