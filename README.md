@@ -33,16 +33,12 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
   [![Blog](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)]()
   [![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
   
-##
-
 ## Activities:
 
 <div align="center">
   <img align="center" alt="Snake animation" src="https://github.com/ericbky/ericbky/blob/output/github-contribution-grid-snake.svg" width="520" />
   <img align="center" alt="GIF" src="https://github.com/ericbky/ericbky/blob/main/.github/code.gif?raw=true" width="280" height="179" />
 </div>
-
--
 
 ## Social:
 <div> 
