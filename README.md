@@ -1,6 +1,3 @@
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ericbky&repo=ericbky&theme=midnight-purple)](https://github.com/ericbky/SEU_REPOSITORIO)
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header"/>
 
 <div align="center">
