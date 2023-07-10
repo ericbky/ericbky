@@ -13,7 +13,7 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
 - alert(" 📫 How to reach me: silveirames@hotmail.com , es9694649@gmail.com or +55 (61) 99616-9283 ");
 - echo(" Linkedin: [erichkh](https://www.linkedin.com/in/erichkh/) ");
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbky&theme=prussian)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbky&theme=synthwave)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericbky&show_icons=true&theme=synthwave)
 
 ## Languages and Tools:
