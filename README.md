@@ -1,3 +1,5 @@
+[![Repo Card](https://github-readme-stats.vercel.app
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header"/>
 
 <div align="center">
@@ -13,8 +15,8 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
 - alert(" 📫 How to reach me: silveirames@hotmail.com , es9694649@gmail.com or +55 (61) 99616-9283 ");
 - echo(" Linkedin: [erichkh](https://www.linkedin.com/in/erichkh/) ");
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbky&theme=synthwave)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericbky&show_icons=true&theme=synthwave)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbky&theme=radical&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericbky&show_icons=true&theme=radical)
 
 ## Languages and Tools:
 
