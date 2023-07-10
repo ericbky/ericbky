@@ -20,13 +20,6 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
 
 ## Languages and Tools:
 
-
-            <i class="devicon-java-plain-wordmark colored"></i>
-          
-
-##
-
-
 [![Blog](https://icongr.am/devicon/javascript-original.svg?size=40&color=ffffff)]()
 [![Blog](https://icongr.am/devicon/typescript-original.svg?size=40&color=ffffff)]()
 [![Blog](https://icongr.am/devicon/html5-original.svg?size=40&color=ffffff)]()
