@@ -38,7 +38,7 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
 ## Activities:
 
 <div align="center">
-  <img align="center" alt="GIF" src="caminho/para/o/code.gif" width="500" height="499" />
+  <img align="center" alt="GIF" src="https://github.com/ericbky/ericbky/blob/main/.github/code.gif" width="500" height="499" />
 </div>
 
 ## Social:
