@@ -38,8 +38,7 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
 ## Activities:
 
 <div align="center">
-  <img align="center" alt="Snake animation" src="caminho/para/o/github-contribution-grid-snake.svg" width="550" />
-  <img align="center" alt="GIF" src="caminho/para/o/code.gif" width="230" height="129" />
+  <img align="center" alt="GIF" src="caminho/para/o/code.gif" width="500" height="499" />
 </div>
 
 ## Social:
