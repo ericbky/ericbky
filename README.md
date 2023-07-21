@@ -8,10 +8,12 @@
 
 Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Brasília (UnB) do curso de Engenharia de Software. Formado no curso Técnico em Informática para Internet integrado ao E.M, com estudos em sistemas web e assim sigo desenvolvendo minhas habilidades em programação com linguagem C, Java, JavaScript, HTML, CSS, React, Node.js, Spring entre outros.
 
-- System.out.println(" 👨‍💻 I'm currently looking for my first back-end internship!!  ");
 - printf(" 📚 Currently studying JavaScript! ");
-- alert(" 📫 How to reach me: silveirames@hotmail.com , es9694649@gmail.com or +55 (61) 99616-9283 ");
+- System.out.println(" 📫 Contatos: silveirames@hotmail.com , es9694649@gmail.com ou <a href="https://api.whatsapp.com/send?phone=5561996169283&amp;text=Olá%20Eric!" style="color: white;">+55(61) 99616-9283</a>");
 - echo(" Linkedin: [erichkh](https://www.linkedin.com/in/erichkh/) ");
+
+## Portifólio pessoal;
+- https://ericbky.github.io/index.html
 
 <div align="center">
   <img align="center" alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericbky&theme=radical&layout=compact" />
