@@ -12,7 +12,8 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
 - System.out.println(" 📫 Contatos: silveirames@hotmail.com , es9694649@gmail.com ou <a href="https://api.whatsapp.com/send?phone=5561996169283&amp;text=Olá%20Eric!" style="color: white;">+55(61) 99616-9283</a>");
 - echo(" Linkedin: [erichkh](https://www.linkedin.com/in/erichkh/) ");
 
-## Portifólio pessoal;
+# Portifólio  e desempenhos pessoais:
+
 - https://ericbky.github.io/index.html
 
 <div align="center">
