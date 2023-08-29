@@ -12,9 +12,9 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
 - System.out.println(" 📫 Contatos: silveirames@hotmail.com , es9694649@gmail.com ou <a href="https://api.whatsapp.com/send?phone=5561996169283&amp;text=Olá%20Eric!" style="color: white;">+55(61) 99616-9283</a>");
 - echo(" Linkedin: [erichkh](https://www.linkedin.com/in/erichkh/) ");
 
-# Portifólio  e desempenhos pessoais:
+## Portifólio  e desempenhos pessoais:
 
-### [https://ericbky.github.io/index.html](https://ericbky.github.io/)
+ [https://ericbky.github.io/index.html](https://ericbky.github.io/)
 
 <div align="center">
 <!--   [![card](https://github-readme-stats.vercel.app/api?username=ericbky&theme=default&show_icons=true)]
