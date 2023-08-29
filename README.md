@@ -16,9 +16,9 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
 
  [https://ericbky.github.io](https://ericbky.github.io/index.html)
 
-<div align="center">
-<!--   [![card](https://github-readme-stats.vercel.app/api?username=ericbky&theme=default&show_icons=true)]
-  [![ericbky](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbky&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericbky&show_icons=true&theme=dracula&line_height=27" alt="Eric Silveira" github stats"/>
+</a>
 
 ## Languages and Tools:
 
