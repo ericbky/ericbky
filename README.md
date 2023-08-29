@@ -17,10 +17,8 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
 - https://ericbky.github.io/index.html
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericbky&show_icons=true&theme=transparent)
-<!--   <img align="center" alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericbky&theme=radical&layout=compact" />
-  <img align="center" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ericbky&show_icons=true&theme=radical" /> -->
-</div>
+  [![card](https://github-readme-stats.vercel.app/api?username=ericbky&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![ericbky](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbky&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
 
