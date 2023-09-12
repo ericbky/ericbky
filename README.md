@@ -17,10 +17,10 @@ Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Bras
  [https://ericbky.github.io](https://ericbky.github.io/index.html)
  
 <a href="https://github.com/ericbky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericbky&theme=dracula&hide_langs_below=1" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericbky&theme=dracula&hide_langs_below=1" heigth="400" />
 </a>
 <a href="https://github.com/ericbky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericbky&show_icons=true&theme=dracula&line_height=27" width="400" alt="Eric Silveira's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericbky&show_icons=true&theme=dracula&line_height=27" heigth="400" alt="Eric Silveira's GitHub Stats" />
 </a>
 
 ## Languages and Tools:
