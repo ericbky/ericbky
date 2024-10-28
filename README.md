@@ -8,7 +8,7 @@
 
 Olá! Meu nome é Eric Silveira, atualmente sou discente na Universidade de Brasília (UnB) do curso de Engenharia de Software. Formado no curso Técnico em Informática para Internet integrado ao E.M.
 
-Tenho sólidos conhecimentos em Engenharia de Software, destacando: programação web, levantamento de requisitos, metodologias ágeis, tipos de testes, estrutura de dados, banco de dados, etc.
+Tenho sólidos conhecimentos em Engenharia de Software, e estou consolidando os mesmos na área de Engenharia de Dados, onde estou me aprofundando em: SGBD's, modelagem de dados (Star Schema, relacional, snow flake), processo ELT, processamento de grandes volumes de dados, ferramentas como Apache Airflow, Apache Spark, dbt, entre outras. 
 
 - printf(" 📚 Currently studying JavaScript! ");
 - System.out.println(" 📫 Contatos: silveirames@hotmail.com , es9694649@gmail.com ou <a href="https://api.whatsapp.com/send?phone=5561996169283&amp;text=Olá%20Eric!" style="color: white;">+55(61) 99616-9283</a>");
