@@ -25,22 +25,27 @@ Tenho sólidos conhecimentos em Engenharia de Software, e estou consolidando os 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericbky&show_icons=true&theme=dracula&line_height=27" height="200" alt="Eric Silveira's GitHub Stats" />
 </a>
 
-## Languages and Tools:
+## 🛠️ Languages and Tools (Data Engineering & Science):
 
-[![Blog](https://icongr.am/devicon/javascript-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/typescript-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/html5-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/css3-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/c-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/java-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/php-original.svg?size=40&color=ffffff)]()
+### 🐍 Languages & Analytics
+[![Python](https://icongr.am/devicon/python-original.svg?size=40&color=ffffff)](https://python.org)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 
-  [![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-  [![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
-  [![Blog](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
-  [![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-  [![Blog](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)]()
-  [![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+### 🚀 Data Orchestration & Streaming
+[![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org)
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org)
+[![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org)
+
+### 🗄️ Databases & Query Engines
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Trino](https://img.shields.io/badge/Trino-DD00B1?style=for-the-badge&logo=trino&logoColor=white)](https://trino.io)
+[![Druid](https://img.shields.io/badge/Apache_Druid-29B6F6?style=for-the-badge&logo=apache-druid&logoColor=white)](https://druid.apache.org)
+
+### 📦 Infrastructure & DevOps
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://microsoft.com)
   
 ## Activities:
 
